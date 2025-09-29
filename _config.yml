@@ -2,3 +2,8 @@ title: Lambert Maxime
 description: Voici mon CV & mon Portfolio, à la recherche active d'un poste en développement web sur Rennes.
 theme: jekyll-theme-midnight
 show_downloads: true
+nav:
+  - title: "Accueil"
+    url: /
+  - title: "CV"
+    url: /cv/
