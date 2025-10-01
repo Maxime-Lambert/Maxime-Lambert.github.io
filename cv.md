@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Mon CV"
 permalink: /cv/
 ---
@@ -79,13 +79,6 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 ---
 
-### Projets internes
-
-- **BRGM (8 mois)** : Application interne de surveillance de sites géologiques (C#, WPF, Log4Net, GitLab, Jira, MVVM).  
-- **PMU (8 mois)** : Application de prise de paris sportifs sur borne (ASP.NET MVC Core & Web API, React, Docker).
-
----
-
 ## 🌟 Projets Personnels
 
 **SUMOT** (07/2025 → 08/2025)  
@@ -116,11 +109,13 @@ Application web de quiz de culture générale
 **Technologies :**  
 *C#, React, Typescript, ASP.NET Core Web API, EFCore, PostgreSQL, SwaggerUI, Docker, Azure, xUnit, Axios, MUI, GitHub, Clean Architecture.*
 
+---
+
 ## 🛠️ Compétences Techniques
 
 - **Langages :** C#, Typescript, HTML, CSS  
 - **Frameworks :** ASP.NET Core, React  
-- **Bases de données :** PostgreSQL, MongoDB  
+- **Bases de données :** PostgreSQL, SQL Server, MongoDB  
 - **Outils :** GitHub, GitLab, Docker, xUnit, Azure  
 - **Méthodologies :** Agile Scrum, Clean Architecture  
 
