@@ -7,6 +7,7 @@ permalink: /cv/
 # Lambert Maxime
 
 Développeur Web .NET / React avec 2 ans d'expérience
+
 📧 [lambert.maxime@protonmail.com](mailto:lambert.maxime@protonmail.com)  
 📱 06.37.54.40.75  
 🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)  
@@ -24,13 +25,13 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 *(01/2025 → 07/2025)*  
 
-- Mise à jour & développement full stack d'une application de veille règlementaire blue-trust-veille-management.
+- Mise à jour & développement full stack d'une application de veille règlementaire pour Socotec.
 - Maintenance de l’application à travers le traitement de tickets Asana.
 - Rédaction de tests d'intégration.
 - Participation à la mise en production du côté du client Socotec.
 - Rédaction d'un cahier de fonctionnalités pour réaliser des recettes.
 
-**Technologies :** *C#, Typescript, ASP.NET Web API, React, SQL Server, EFCore, IIS, XUnit, ASP.NET MVC, Visual Basic, Microsoft Silverlight, Gitlab, Asana*
+**Technologies :** *C#, Typescript, ASP.NET Web API, React, SQL Server, EFCore, IIS, XUnit, ASP.NET MVC, Visual Basic, Microsoft Silverlight, Gitlab, Méthodes agiles Scrum, Asana*
 
 ---
 
@@ -38,7 +39,7 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 *(05/2021 → 09/2022)*  
 
-#### Projet PMU
+#### Projet PMU (01/2022 → 09/2022)
 
 - Développement full stack des écrans “Bon à Parier !” pour renseigner des bons promotionnels lors d’une prise de pari.
 - Développementt full stack d’un écran de panier pour gérer un ensemble de paris sportifs sous forme de commande pour améliorer l’expérience utilisateur.
@@ -46,14 +47,14 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 **Technologies :** *C#, WPF, Log4Net, Gitlab, Jira, Architecture MVVM, Windows, Méthodes agiles Scrum*
 
-#### Projet BRGM
+#### Projet BRGM (05/2021 → 01/2022)
 
-- Développementt full stack de la logique d’un nouveau menu pour faciliter la gestion de sites géologiques complexes à partir de modèles de référence.
+- Développement full stack de la logique d’un nouveau menu pour faciliter la gestion de sites géologiques complexes à partir de modèles de référence.
 - Maintenance de l’application à travers le traitement de tickets Gitlab.
 - Rédaction de tests unitaires, d’intégration et d’interface automatisés.
 - Mise à jour des documents d’architecture et des spécifications fonctionnelles.
 
-**Technologies :** *C#, Typescript, ASP.NET MVC Core, EFCore, PostGIS, Bootstrap, JQuery, Docker, IIS, GitLab, xUnit, Selenium.*
+**Technologies :** *C#, Typescript, ASP.NET MVC Core, EFCore, PostGIS, Bootstrap, JQuery, Docker, IIS, GitLab, Méthodes agiles Scrum, xUnit, Selenium.*
 
 ---
 
@@ -61,10 +62,10 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 *(11/2020 → 02/2021)*  
 
-- Mise à jour d’une application interne de facturation et conception de piscines.  
-- Maintenance d’applications internes via tickets Trello.  
+- Mise à jour d’une application interne de facturation et conception de liners de piscines.  
+- Maintenance d’applications internes de surcouches de DAO via tickets Trello.  
 
-**Technologies :** *C#, WinForms, WPF, MongoDB, Gitea, Trello, MVVM.*
+**Technologies :** *C#, WinForms, WPF, MongoDB, Gitea, Méthodes agiles Scrum, Trello, MVVM.*
 
 ---
 
@@ -72,17 +73,17 @@ Développeur Web .NET / React avec 2 ans d'expérience
 
 *(05/2020 → 08/2020)*  
 
-- Développement d’une application de détection d’erreurs par analyse de fichiers pour sécuriser les déploiements.
+- Développement full stack d’une application de détection d’erreurs par analyse de fichiers pour sécuriser les déploiements.
 - Modules de comparaison de schémas de bases de données & de repérage de patterns customisés textuels.
 
-**Technologies :** *C#, WinForms, DevExpress, TortoiseSVN.*
+**Technologies :** *C#, WinForms, DevExpress, TortoiseSVN, Méthodes agiles Scrum.*
 
 ---
 
 ## 🌟 Projets Personnels
 
 **SUMOT** (07/2025 → 08/2025)  
-Application web de motus journalier
+Application web de jeux de motus
 🔗 [Démo en ligne](https://www.sumot.app/)
   
 - Conception et développement d’une **API REST** avec **C#** & **.NET**.  
@@ -97,7 +98,7 @@ Application web de motus journalier
 ---
 
 **QUIZYZUNA** (02/2024 → 08/2024)  
-Application web de quiz de culture générale  
+Application web de jeux de quiz  
 🔗 [Démo en ligne](https://brave-coast-0cc72c303.5.azurestaticapps.net/)
 
 - Conception et développement d’une **API REST** avec **C#** & **.NET**.  
@@ -114,7 +115,7 @@ Application web de quiz de culture générale
 ## 🛠️ Compétences Techniques
 
 - **Langages :** C#, Typescript, HTML, CSS  
-- **Frameworks :** ASP.NET Core, React  
+- **Frameworks :** .NET, React  
 - **Bases de données :** PostgreSQL, SQL Server, MongoDB  
 - **Outils :** GitHub, GitLab, Docker, xUnit, Azure  
 - **Méthodologies :** Agile Scrum, Clean Architecture  
