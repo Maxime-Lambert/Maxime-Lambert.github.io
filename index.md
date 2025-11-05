@@ -10,7 +10,7 @@ title: "Accueil"
 
 ---
 
-[➡️ **Télécharger mon CV simplifié (PDF)**](/Assets/Lambert_Maxime_CV.pdf){: .btn .btn--primary}
+[➡️ **Télécharger mon CV simplifié (PDF)**](/Assets/Lambert_maxime_CV.pdf){: .btn .btn--primary}
 
 ---
 
