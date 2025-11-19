@@ -32,7 +32,7 @@ Responsable de la conception technique, du développement et du déploiement de 
 - **Déploiement** du projet sur **Azure** à l’aide de **GitHub Actions**.
 
 **Technologies :**  
-*C#, .NET 8, React, Typescript, ASP.NET Core Web API, OData, EFCore, PostgreSQL, SwaggerUI, Docker, Azure, xUnit, ASP.Net Core Identity, JWT Tokens, Axios, Shadcn, Git, GitHub.*
+*C#, .NET 8, React, Typescript, ASP.NET Core Web API, EFCore, PostgreSQL, SwaggerUI, Docker, Azure, xUnit, ASP.Net Core Identity, JWT Tokens, Axios, Shadcn, Git, GitHub.*
 
 ---
 
@@ -73,7 +73,7 @@ Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet e
 - Rédaction et automatisation de tests d’intégration avec **xUnit**.
 - Contribution à la réduction de la **dette technique** par une amélioration de la qualité et de la lisibilité du code.
 
-**Technologies :** *C#, .NET 5, Typescript, ASP.NET Core Web API, React, SQL Server, EFCore, IIS, XUnit, ASP.NET MVC, VB.NET, Gitlab, Asana, Méthodes agiles Scrum.*
+**Technologies :** *C#, .NET 5, Typescript, ASP.NET Core Web API, OData, React, SQL Server, EFCore, IIS, XUnit, ASP.NET MVC, VB.NET, Gitlab, Asana, Méthodes agiles Scrum.*
 
 ---
 
