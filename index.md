@@ -19,7 +19,9 @@ title: "Accueil"
 ### SUMOT
 
 *(07/2025 → 08/2025)*  
-🔗 [Démo en ligne](https://www.sumot.app/)
+🔗 [Site déployé](https://www.sumot.app/)
+🔗 [Dépôt front](https://github.com/Maxime-Lambert/sumot)
+🔗 [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI)
 
 Projet personnel développé pour perfectionner mes compétences full stack et **CI/CD** sur un jeu de type “Motus” en ligne.
 Responsable de la conception technique, du développement et du déploiement de bout en bout.
@@ -37,7 +39,9 @@ Responsable de la conception technique, du développement et du déploiement de 
 ### QUIZYZUNA
 
 *(02/2024 → 08/2024)*
-🔗 [Démo en ligne](https://brave-coast-0cc72c303.5.azurestaticapps.net/)
+🔗 [Site déployé](https://brave-coast-0cc72c303.5.azurestaticapps.net/)
+🔗 [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
+🔗 [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI)
 
 Projet personnel développé pour perfectionner mes compétences full stack et **CI/CD** sur un jeu de quiz en ligne.
 Responsable de la conception technique, du développement et du déploiement de bout en bout.
@@ -90,7 +94,7 @@ Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet, 
 
 #### Projet BRGM (05/2021 → 01/2022)
 
-Participation au développement d’une application interne de monitoring de sites géologiques sensibles pour le **BRGM**.
+Participation au développement d’une application interne de monitoring de sites géologiques sensibles pour le **BRGM** (Bureau de Recherches Géologiques et Minières).
 
 Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet, un tech lead et un dévelopeur confirmé.
 
@@ -144,13 +148,13 @@ Pour mener à bien ce projet, j'étais encadré par un enseignant-chercheur.
 
 ### Jobs d'été / étudiants
 
-Multiples postes occupés au cours de ma vie étudiante qui m'ont permis de développemer ma rigueur, mon autonomie et mon sens du travail en équipe.
+Multiples postes occupés au cours de ma vie étudiante qui m'ont permis de développer ma rigueur, mon autonomie et mon sens du travail en équipe.
 
-- **MCDonald's** employé polyvalent pendant 1 mois.
-- **Total** employé de station pendant 1 ans et 4 mois.
-- **KFC** employé polyvalent pendant 3 mois.
-- **Leroy Merlin** conseilleur vendeur en jardinerie pendant 2 mois.
-- **Boulangerie Parneix** employé polyvalent pendant 2 mois.
+- **MCDonald's** : Employé polyvalent pendant 1 mois.
+- **Total** : Employé de station pendant 1 ans et 4 mois.
+- **KFC** : Employé polyvalent pendant 3 mois.
+- **Leroy Merlin** : Conseiller vendeur en jardinerie pendant 2 mois.
+- **Boulangerie Parneix** : Employé polyvalent pendant 2 mois.
 
 ---
 
