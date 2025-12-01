@@ -10,7 +10,7 @@ title: "Accueil"
 
 ---
 
-[➡️ **Télécharger mon CV simplifié (PDF)**](/Assets/Lambert_maxime_CV.pdf){: .btn .btn--primary}
+[➡️ **Télécharger mon CV simplifié (PDF)**](/assets/Lambert_maxime_CV.pdf){: .btn .btn--primary}
 
 ---
 
@@ -18,7 +18,8 @@ title: "Accueil"
 
 ### SUMOT
 
-*(07/2025 → 08/2025)*  
+#### (07/2025 → 08/2025)
+
 🔗 [Site déployé](https://www.sumot.app/)
 🔗 [Dépôt front](https://github.com/Maxime-Lambert/sumot)
 🔗 [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI)
@@ -38,7 +39,8 @@ Responsable de la conception technique, du développement et du déploiement de 
 
 ### QUIZYZUNA
 
-*(02/2024 → 08/2024)*
+#### (02/2024 → 08/2024)
+
 🔗 [Site déployé](https://brave-coast-0cc72c303.5.azurestaticapps.net/)
 🔗 [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
 🔗 [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI)
@@ -158,12 +160,40 @@ Multiples postes occupés au cours de ma vie étudiante qui m'ont permis de dév
 
 ---
 
+## 🎓 Formation
+
+Master 2 Informatique — Ingénierie Logicielle
+
+Université de Rennes 1 — 2020 (Mention Bien)
+
+Formation centrée sur la conception, le développement et l’architecture de logiciels dans un contexte industriel.
+
+Également président du bureau des étudiants d'informatique et d'électronique (La PALME) de 2018 à 2020. Organisation d'évènements jeux de société, quiz avec lots, soirées diverses.
+
+Compétences clés acquises :
+
+- **Java** comme langage principal (projets orientés objet, patterns de conception, principes **SOLID**).
+
+- Développement **Spring** / **Angular** pour des applications full-stack modernes.
+
+- Conception et optimisation de bases de données (modélisation, **SQL**).
+
+- Pratique des **design patterns**, architectures modulaires et qualité logicielle.
+
+- Mise en œuvre de **tests unitaires** / **intégration** et introduction aux pipelines **CI/CD**.
+
+- Polyvalence renforcée grâce à des travaux en **C#**, **Python**, **C**, **Scala**, **PHP** et **OCaml**.
+
+- Expérience en gestion de projet, documentation technique et travail en équipe.
+
+---
+
 ## 🛠️ Compétences Techniques
 
-- **Langages :** C#, Typescript, SQL , HTML, CSS
-- **Frameworks :** .NET, ASP.NET Core, React  
+- **Langages :** C#, Typescript, SQL , HTML, CSS, Java
+- **Frameworks :** .NET, ASP.NET Core, React, Java, Angular
 - **Bases de données :** PostgreSQL, SQL Server, MongoDB  
-- **Outils :** Visual Studio, EFCore, LINQ, Git, GitHub, GitLab, Docker, xUnit, Azure
+- **Outils :** Visual Studio, EFCore, LINQ, Git, GitHub, GitLab, Docker, xUnit, Azure, Suite IntelliJ
 - **Méthodologies :** Agile Scrum, API REST, Clean Architecture, CQRS, CI/CD, MVVM
 
 ---
