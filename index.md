@@ -1,204 +1,135 @@
 ---
 layout: default
-title: "Accueil"
+title: "Lambert Maxime — Développeur Full Stack .NET/React"
 ---
 
-📧 [lambert.maxime@protonmail.com](mailto:lambert.maxime@protonmail.com)  
-📱 06.37.54.40.75  
-🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)  
+📧 [lambert.maxime@protonmail.com](mailto:lambert.maxime@protonmail.com)
+📱 06.37.54.40.75
+🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)
 💼 [LinkedIn – maximelambert35](https://www.linkedin.com/in/maximelambert35)
 
+[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert_maxime_CV.pdf)
+
 ---
 
-[➡️ **Télécharger mon CV simplifié (PDF)**](/assets/Lambert_maxime_CV.pdf){: .btn .btn--primary}
+## Développeur Full Stack .NET / React
+
+Je conçois et développe des applications web en C#/ASP.NET Core et React/TypeScript, avec une culture forte de la qualité : Clean Architecture, DDD, tests automatisés, CI/CD. J'ai travaillé sur des systèmes complexes et variés — conformité réglementaire, paris sportifs, monitoring géospatial — et j'ai mené mes projets personnels de A à Z, de l'architecture au déploiement Azure. Je cherche une équipe qui valorise la rigueur technique autant que la vitesse.
 
 ---
 
 ## 🌟 Projets Personnels
 
-### SUMOT
+### SUMOT _(07/2025 → en cours)_
 
-#### (07/2025 → 08/2025)
+🔗 [sumot.app](https://www.sumot.app/) · [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI) · [Dépôt front](https://github.com/Maxime-Lambert/sumot)
 
-🔗 [Site déployé](https://www.sumot.app/)
-🔗 [Dépôt front](https://github.com/Maxime-Lambert/sumot)
-🔗 [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI)
+Jeu de type Motus en ligne, utilisé régulièrement par une vingtaine de joueurs. Conçu, développé et déployé de bout en bout.
 
-Projet personnel développé pour perfectionner mes compétences full stack et **CI/CD** sur un jeu de type “Motus” en ligne.
-Responsable de la conception technique, du développement et du déploiement de bout en bout.
-  
-- Conception d’une **API REST** en **ASP.NET Core** selon les principes de la **Vertical Slice Architecture** pour gérer utilisateurs et parties.
-- Développement d’une **SPA** avec **React / Typescript** pour l'interface de jeu, intégrant un système d’**authentification JWT**.
-- Mise en place de l’**intégration continue** avec **xUnit**, **TestContainers** et **GitHub Actions**.
-- **Déploiement** du projet sur **Azure** à l’aide de **GitHub Actions**.
+- **API REST** ASP.NET Core (~30 endpoints) selon les principes de la **Vertical Slice Architecture** — gestion des comptes, des parties et sélection du mot du jour (Hangfire).
+- **Authentification JWT** + ASP.NET Core Identity, respect RGPD.
+- **SPA React / TypeScript** avec gestion d'état Zustand.
+- **CI/CD** GitHub Actions avec tests conteneurisés (TestContainers) et déploiement automatisé sur Azure.
 
-**Technologies :**  
-*C#, .NET 8, React, Typescript, ASP.NET Core Web API, EFCore, PostgreSQL, SwaggerUI, Docker, Azure, xUnit, ASP.Net Core Identity, JWT Tokens, Axios, Shadcn, Git, GitHub.*
+_C#, .NET 8, ASP.NET Core Web API, EFCore, PostgreSQL, React, TypeScript, Docker, Azure, xUnit, GitHub Actions_
 
 ---
 
-### QUIZYZUNA
+### QUIZYZUNA _(02/2024 → 08/2024)_
 
-#### (02/2024 → 08/2024)
+🔗 [Site déployé](https://brave-coast-0cc72c303.5.azurestaticapps.net/) · [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI) · [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
 
-🔗 [Site déployé](https://brave-coast-0cc72c303.5.azurestaticapps.net/)
-🔗 [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
-🔗 [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI)
+Jeu de quiz en ligne, projet de référence architecture **DDD / Clean Architecture**. Conçu, développé et déployé de bout en bout.
 
-Projet personnel développé pour perfectionner mes compétences full stack et **CI/CD** sur un jeu de quiz en ligne.
-Responsable de la conception technique, du développement et du déploiement de bout en bout.
+- **API REST** ASP.NET Core avec validation complète des requêtes.
+- **SPA React / TypeScript** avec gestion d'état Redux.
+- Rédaction d'un **document technique** décrivant les choix d'architecture et de conception.
+- **CI/CD** GitHub Actions avec tests conteneurisés et déploiement automatisé sur Azure.
 
-- Création d’une **API REST** en **ASP.NET Core** selon les principes du **Domain Driven Design** et de la **Clean Architecture** pour gérer les questions.
-- Développement d’une **SPA** avec **React / Typescript** pour l'interface de jeu.
-- Rédaction d’un **document technique** décrivant les choix d’architecture et de conception.
-- Mise en place de l’**intégration continue** avec **xUnit**, **TestContainers** et **GitHub Actions**.
-- **Déploiement** du projet sur **Azure** à l’aide de **GitHub Actions**.
+_C#, .NET 8, ASP.NET Core Web API, EFCore, PostgreSQL, React, TypeScript, Docker, Azure, xUnit, GitHub Actions_
 
-**Technologies :**  
-*C#, .NET 8, React, Typescript, ASP.NET Core Web API, EFCore, PostgreSQL, SwaggerUI, Docker, Azure, xUnit, Axios, MUI, Git, GitHub.*
+---
+
+### KAIROS _(en cours)_
+
+Jeu de construction de decks multi-joueurs basé sur le principe de la bataille, développé en collaboration avec deux autres développeurs.
+
+- Conception de l'architecture du système de jeu et des règles métier.
+- Développement back-end en **Java / Spring**, front-end en **React / TypeScript**.
+
+_Java, Spring, React, TypeScript_
 
 ---
 
 ## 💼 Expériences Professionnelles
 
-### Développeur Web – 6TM (01/2025 → 07/2025)
+### Développeur Web — 6TM _(01/2025 → 07/2025)_
 
-Participation au développement et à la maintenance de l’application **Axone** pour **Socotec**, un outil de conformité réglementaire.
+Application **Axone** pour Socotec — outil de conformité réglementaire utilisé par plus de 1 000 utilisateurs. Environnement legacy multi-technos (VB.NET, ASP.NET MVC, React).
 
-Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet et un tech lead.
+- Développement et refonte full stack d'environ **10 features CRUD** (tableaux, formulaires complexes, workflows métiers) via API OData + React.
+- Manipulation d'une base **SQL Server** de ~50 tables (jusqu'à 1M de lignes).
+- Mise à jour de modules legacy vers **ASP.NET Web API + React**.
+- Co-rédaction d'un **cahier de recette** client, rédaction de tests d'intégration (xUnit), participation aux revues de code.
+- Contribution à la réduction de la dette technique.
 
-- Développement de nouvelles **interfaces CRUD** (tableaux, formulaires) pour la gestion des audits et des utilisateurs.
-- Refonte de plusieurs écrans pour améliorer **l’ergonomie** et la **cohérence métier**.
-- Maintenance corrective et évolutive via tickets **Asana** dans un environnement **legacy** complexe.
-- Co-rédaction d’un **cahier de recette** à destination du client pour formaliser les validations fonctionnelles.
-- Participation active aux revues de code.
-- Rédaction et automatisation de tests d’intégration avec **xUnit**.
-- Contribution à la réduction de la **dette technique** par une amélioration de la qualité et de la lisibilité du code.
-
-**Technologies :** *C#, .NET 5, Typescript, ASP.NET Core Web API, OData, React, SQL Server, EFCore, IIS, XUnit, ASP.NET MVC, VB.NET, Gitlab, Asana, Méthodes agiles Scrum.*
+_C#, .NET 5, ASP.NET Core, TypeScript, React, SQL Server, EFCore, OData, IIS, xUnit, VB.NET, GitLab, Scrum_
 
 ---
 
-### Ingénieur d’Études et Développement – Sopra Steria (05/2021 → 09/2022)
+### Ingénieur d'Études et Développement — Sopra Steria _(05/2021 → 09/2022)_
 
-Participation à deux projets dans le domaine industriel et des jeux de paris sportifs, au sein d’équipes agiles.
+#### PMU — Application de prise de paris sportifs sur borne _(01/2022 → 09/2022)_
 
-#### Projet PMU (01/2022 → 09/2022)
+- Implémentation des écrans **"Bon à Parier !"** et **panier multi-paris** selon l'architecture MVVM.
+- Maintenance corrective via analyse de trames d'erreurs (Jira).
 
-Participation au développement et à la maintenance de l’application de prise de paris sportifs sur borne en bar **PMU**.
+_C#, .NET Framework 4.8, WPF, GitLab, Scrum_
 
-Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet, un développeur sénior, plusieurs développeurs et une équipe QA.
+#### BRGM — Monitoring de sites géologiques sensibles _(05/2021 → 01/2022)_
 
-- Implémentation des écrans “**Bon à Parier !**” et **panier d'achats** pour renseigner des bons d'achats et pourvoir faire de multiples paris en une commande en suivant **l'architecture MVVM**.
-- Maintenance corrective via l'analyse de trames d’erreurs par tickets **Jira**.
+- Développement de modules métiers sur données volumineuses et géospatiales (PostGIS), modèle relationnel complexe.
+- Rédaction et automatisation de tests unitaires, d'intégration et d'interface (xUnit, Selenium).
+- Mise à jour des **documents d'architecture** et spécifications fonctionnelles.
 
-**Technologies :** *C#, .NET Framwork 4.8, WPF, Log4Net, Git, Gitlab, Jira, Méthodes agiles Scrum.*
-
-#### Projet BRGM (05/2021 → 01/2022)
-
-Participation au développement d’une application interne de monitoring de sites géologiques sensibles pour le **BRGM** (Bureau de Recherches Géologiques et Minières).
-
-Pour mener à bien ce projet, j'étais en collaboration avec un chef de projet, un tech lead et un dévelopeur confirmé.
-
-- Développement de modules métiers dans un environnement données volumineuses et géospatiales, avec un modèle relationnel complexe.
-- Maintenance corrective et évolutive via tickets **GitLab**.
-- Rédaction et automatisation de tests unitaires, d’intégration et d’interface avec **xUnit** et **Selenium**.
-- Mise à jour des documents d’architecture et spécifications fonctionnelles.
-- Participation active aux revues de code.
-
-**Technologies :** *C#, .NET 5, Typescript, ASP.NET MVC Core, EFCore, PostGIS, Bootstrap, JQuery, Docker, IIS, Git, GitLab, xUnit, Selenium, Méthodes agiles Scrum.*
+_C#, .NET 5, TypeScript, ASP.NET Core MVC, EFCore, PostGIS, Docker, IIS, xUnit, Selenium, GitLab, Scrum_
 
 ---
 
-### Analyste Développeur – DEL (11/2020 → 02/2021)
+### Stagiaire Analyste Développeur — Atos _(05/2020 → 08/2020)_
 
-Développement d’applications internes pour le secteur industriel de la fabrication d'équipements de piscine.
+Projet interne pour Bouygues Télécom — sécurisation des livraisons logicielles.
 
-Pour mener à bien ce projet, j'étais suivi par un chef de projet.
+- Développement d'un outil de détection automatique d'erreurs par analyse de fichiers avant déploiement.
+- Application **mise en production et adoptée** par l'équipe Atos.
 
-- Refonte d’une application en **WPF** de configuration de liners de piscine en suivant **l'architecture MVVM**.
-- Maintenance et correction d’anomalies sur des applications de surcouches DAO via tickets **Trello**.
-
-**Technologies :** *C#, .NET 5, WPF, WinForms, MongoDB, Git, Gitea, Méthodes agiles Scrum, Trello.*
-
----
-
-### Stagiaire Analyste Développeur – Atos (05/2020 → 08/2020)
-
-Stage de fin d’études dans le cadre d’un projet interne pour **Bouygues Télécom**, visant à sécuriser les livraisons logicielles.
-
-Pour mener à bien ce projet, j'étais en collaboration avec un autre stagiaire et encadrés par un tech lead.
-
-- Développement d’un outil de détection automatique d’erreurs par analyse du contenu des fichiers avant déploiement.
-- Conception de modules de comparaison de schémas **SQL** et de repérage de patterns textuels à éviter.
-- Participation à la conception et à la validation fonctionnelle au sein de l’équipe de développement Atos.
-- Application mise en production et adoptée par l'équipe de développement.
-
-**Technologies :** *C#, .NET 5, WinForms, DevExpress, TortoiseSVN, Méthodes agiles Scrum.*
-
----
-
-### Stagiaire en laboratoire – Université de Rennes 1 (IRISA) (05/2019 → 07/2019)
-
-Développement d’un outil d’extraction terminologique de textes pédagogiques universitaires en **Python**, dans le cadre d’un projet de lecture augmentée.
-
-Pour mener à bien ce projet, j'étais encadré par un enseignant-chercheur.
-
-**Technologies :** *Python, Git, Méthodes agiles Scrum.*
-
----
-
-### Jobs d'été / étudiants
-
-Multiples postes occupés au cours de ma vie étudiante qui m'ont permis de développer ma rigueur, mon autonomie et mon sens du travail en équipe.
-
-- **MCDonald's** : Employé polyvalent pendant 1 mois.
-- **Total** : Employé de station pendant 1 ans et 4 mois.
-- **KFC** : Employé polyvalent pendant 3 mois.
-- **Leroy Merlin** : Conseiller vendeur en jardinerie pendant 2 mois.
-- **Boulangerie Parneix** : Employé polyvalent pendant 2 mois.
+_C#, .NET 5, WinForms, TortoiseSVN_
 
 ---
 
 ## 🎓 Formation
 
-Master 2 Informatique — Ingénierie Logicielle
+**Master 2 Informatique — Ingénierie Logicielle** · Université de Rennes 1 · 2020 · _Mention Bien_
 
-Université de Rennes 1 — 2020 (Mention Bien)
-
-Formation centrée sur la conception, le développement et l’architecture de logiciels dans un contexte industriel.
-
-Également président du bureau des étudiants d'informatique et d'électronique (La PALME) de 2018 à 2020. Organisation d'évènements jeux de société, quiz avec lots, soirées diverses.
-
-Compétences clés acquises :
-
-- **Java** comme langage principal (projets orientés objet, patterns de conception, principes **SOLID**).
-
-- Développement **Spring** / **Angular** pour des applications full-stack modernes.
-
-- Conception et optimisation de bases de données (modélisation, **SQL**).
-
-- Pratique des **design patterns**, architectures modulaires et qualité logicielle.
-
-- Mise en œuvre de **tests unitaires** / **intégration** et introduction aux pipelines **CI/CD**.
-
-- Polyvalence renforcée grâce à des travaux en **C#**, **Python**, **C**, **Scala**, **PHP** et **OCaml**.
-
-- Expérience en gestion de projet, documentation technique et travail en équipe.
+Conception, développement et architecture de logiciels. Pratique des design patterns, principes SOLID, tests unitaires et intégration, CI/CD, modélisation de bases de données.
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-- **Langages :** C#, Typescript, SQL , HTML, CSS, Java
-- **Frameworks :** .NET, ASP.NET Core, React, Java, Angular
-- **Bases de données :** PostgreSQL, SQL Server, MongoDB  
-- **Outils :** Visual Studio, EFCore, LINQ, Git, GitHub, GitLab, Docker, xUnit, Azure, Suite IntelliJ
-- **Méthodologies :** Agile Scrum, API REST, Clean Architecture, CQRS, CI/CD, MVVM
+**Backend :** C#, ASP.NET Core Web API, .NET 8, Entity Framework Core, PostgreSQL, SQL Server, OData
+
+**Frontend :** React, TypeScript, Redux, Zustand, Tailwind, HTML, CSS
+
+**Qualité & DevOps :** xUnit, TestContainers, Docker, GitHub Actions, Azure, CI/CD
+
+**Architecture :** Clean Architecture, DDD, Vertical Slice, MVVM, API REST, CQRS
+
+**Outils :** Git, GitHub, GitLab, Visual Studio, Swagger, Postman
 
 ---
 
 ## 🌍 Langues
 
-- Français : natif  
-- Anglais : courant (TOEIC 2018 – 955/990)
+- Français : natif
+- Anglais : courant — TOEIC 2018 · 955/990
