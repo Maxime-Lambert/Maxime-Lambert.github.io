@@ -2,3 +2,5 @@ title: Lambert Maxime
 description: Développeur full stack .NET/React
 theme: jekyll-theme-midnight
 show_downloads: false
+github:
+  is_project_page: false

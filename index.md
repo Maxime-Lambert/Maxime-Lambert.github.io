@@ -8,7 +8,7 @@ title: "Lambert Maxime — Développeur Full Stack .NET/React"
 🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)
 💼 [LinkedIn – maximelambert35](https://www.linkedin.com/in/maximelambert35)
 
-[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert Maxime CV.pdf)
+[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert-Maxime-CV.docx)
 
 ---
 
@@ -22,7 +22,7 @@ Je conçois et développe des applications web en C#/ASP.NET Core et React/TypeS
 
 ### SUMOT _(07/2025 → en cours)_
 
-🔗 [sumot.app](https://www.sumot.app/) · [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI) · [Dépôt front](https://github.com/Maxime-Lambert/sumot)
+🔗 [Application en ligne](https://www.sumot.app/) · [Dépôt back](https://github.com/Maxime-Lambert/DailyQuizAPI) · [Dépôt front](https://github.com/Maxime-Lambert/sumot)
 
 Jeu de type Motus en ligne, utilisé régulièrement par une vingtaine de joueurs. Conçu, développé et déployé de bout en bout.
 
@@ -37,7 +37,7 @@ _C#, .NET 8, ASP.NET Core Web API, EFCore, PostgreSQL, React, TypeScript, Docker
 
 ### QUIZYZUNA _(02/2024 → 08/2024)_
 
-🔗 [Site déployé](https://brave-coast-0cc72c303.5.azurestaticapps.net/) · [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI) · [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
+🔗 [Application en ligne](https://brave-coast-0cc72c303.5.azurestaticapps.net/) · [Dépôt back](https://github.com/Maxime-Lambert/QuizyZunaAPI) · [Dépôt front](https://github.com/Maxime-Lambert/QuizyZuna)
 
 Jeu de quiz en ligne, projet de référence architecture **DDD / Clean Architecture**. Conçu, développé et déployé de bout en bout.
 
