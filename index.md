@@ -8,7 +8,7 @@ title: "Lambert Maxime — Développeur Full Stack .NET/React"
 🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)
 💼 [LinkedIn – maximelambert35](https://www.linkedin.com/in/maximelambert35)
 
-[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert_maxime_CV.pdf)
+[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert Maxime CV.pdf)
 
 ---
 
