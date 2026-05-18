@@ -4,11 +4,14 @@ title: "Lambert Maxime — Développeur Full Stack .NET/React"
 ---
 
 📧 [lambert.maxime@protonmail.com](mailto:lambert.maxime@protonmail.com)
+
 📱 06.37.54.40.75
+
 🐙 [GitHub – Maxime-Lambert](https://github.com/Maxime-Lambert)
+
 💼 [LinkedIn – maximelambert35](https://www.linkedin.com/in/maximelambert35)
 
-[➡️ **Télécharger mon CV (PDF)**](/assets/Lambert-Maxime-CV.docx)
+[➡️ **Télécharger mon CV (docx)**](/assets/Lambert-Maxime-CV.docx)
 
 ---
 
